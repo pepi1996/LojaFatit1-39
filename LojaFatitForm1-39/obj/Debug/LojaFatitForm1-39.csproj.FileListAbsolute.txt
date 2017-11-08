@@ -1,0 +1,132 @@
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\LojaFatitForm1-39.exe.config
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\LojaFatitForm1-39.exe
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\LojaFatitForm1-39.pdb
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\EntityFramework.dll
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\EntityFramework.xml
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.Admin.resources
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.ChangePassword.resources
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.CreateAccount.resources
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.EditAccount.resources
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.Login.resources
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.Properties.Resources.resources
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1-39.csproj.GenerateResource.Cache
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1-39.exe
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1-39.pdb
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1-39.csprojResolveAssemblyReference.cache
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.OpenGjiro.resources
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.PlayGjiro.resources
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.Tickets.resources
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.PlayedTickets.resources
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.Winners.resources
+C:\Users\pepi_\documents\visual studio 2017\Projects\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.Raporti1.resources
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\LojaFatitForm1-39.exe.config
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\LojaFatitForm1-39.exe
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\LojaFatitForm1-39.pdb
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\EntityFramework.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\EnvDTE.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\stdole.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\EnvDTE80.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\VSLangProj.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\VSLangProj80.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.MSXML.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\VSLangProj2.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\EntityFramework.xml
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1-39.csprojResolveAssemblyReference.cache
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1-39.csproj.LojaFatitForm1-39.exe.config
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.Admin.resources
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.ChangePassword.resources
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.CreateAccount.resources
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.EditAccount.resources
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.OpenGjiro.resources
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.Login.resources
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.PlayGjiro.resources
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.Properties.Resources.resources
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.Raporti1.resources
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.Tickets.resources
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.PlayedTickets.resources
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1_39.Winners.resources
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1-39.csproj.GenerateResource.Cache
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1-39.exe
+C:\Users\pepi_\Desktop\LojaFatitForm1-39\LojaFatitForm1-39\obj\Debug\LojaFatitForm1-39.pdb
